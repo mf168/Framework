@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wf' => '1032351062@qq.com' }
-  s.source           = { :git => 'https://github.com/<1032351062@qq.com>/ASDLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wff-/Framework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '7.0'
