@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '947D2FDBDF26B588E78E4FE1440DE899'
+               BlueprintIdentifier = '9361785CE7E387411616473238D05435'
                BlueprintName = 'ASDLib'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libASDLib.a'>
