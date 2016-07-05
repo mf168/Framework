@@ -1,0 +1,15 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'ASDLib_Example' do
+  pod 'ASDLib', :path => '../'
+  
+  pod 'AFNetworking'
+  pod 'Masonry'
+
+
+  target 'ASDLib_Tests' do
+  pod 'ASDLib', :path => '../'
+
+  end
+end

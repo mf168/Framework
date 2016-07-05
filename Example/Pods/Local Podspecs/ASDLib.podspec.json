@@ -1,0 +1,22 @@
+{
+  "name": "ASDLib",
+  "version": "0.1.0",
+  "summary": "A short description of ASDLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ASDLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wf": "1032351062@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ASDLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "ASDLib/Classes/**/*"
+}
